@@ -1,0 +1,4 @@
+Error : 86    Line :   12    Invalid parameter for CONFIG parameter or value [DUMMY]  , in File : C:\USERS\SHLOK SHETH\DESKTOP\PROGRAM\SHELL2.BAS
+Error : 1     Line :   25    Unknown statement [EXEC "calc.exe" , 1]  , in File : C:\USERS\SHLOK SHETH\DESKTOP\PROGRAM\SHELL2.BAS
+Error : 7     Line :   25    IF THEN expected [ 25]  , in File : C:\USERS\SHLOK SHETH\DESKTOP\PROGRAM\SHELL2.BAS
+Error : 123   Line :   25    END IF expected  , in File : C:\USERS\SHLOK SHETH\DESKTOP\PROGRAM\SHELL2.BAS
